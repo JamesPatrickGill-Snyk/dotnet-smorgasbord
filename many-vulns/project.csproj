@@ -20,6 +20,6 @@
 		<PackageReference Include="QuantConnect.Lean" Version="2.4.3867" />
 		<PackageReference Include="Unbreakable.Policy" Version="18.0.0" />
 		<PackageReference Include="Accusoft.ImageGear.All" Version="25.0.1" />
-		<PackageReference Include="UmbracoCms.Core" Version="7.14.0" />
+		<PackageReference Include="UmbracoCms.Core" Version="8.9.2" />
 	</ItemGroup>
 </Project>
